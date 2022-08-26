@@ -1,6 +1,8 @@
 main:
-  - title: "About"
-    url: https://chiralsquid.github.io/about
-  - title: "CV"
-    url: https://chiralsquid.github.io/cv
+#  - title: "Blog"
+#    url: https://chiralsquid.github.io/blog
+#  - title: "CV"
+#    url: https://chiralsquid.github.io/cv
+#  - title: "Projects"
+#    url: https://chiralsquid.github.io/projects
 
